@@ -24,3 +24,5 @@ backend/*/.classpath
 backend/*/.settings/*
 
 backend/*/.project
+front-end/.angular/*
+.vscode/settings.json
